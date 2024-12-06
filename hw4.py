@@ -191,4 +191,5 @@ for line in code:
 #prints an error statement if the operation does not exist
     else:
         print("Error: line " + str(count) + " is malformed")
+
 operation.close()
